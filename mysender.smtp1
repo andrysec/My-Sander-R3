@@ -1,0 +1,11 @@
+[Arakida]
+Server=smtp-relay.gmail.com
+User=n0replyaccedlockedsupport534265431@appsidmsa-secureaccountinfo.business
+Pass=123123qq
+Auth=y
+SSL=y
+Random Sender Enable=y
+Random Sender From=9
+Random Sender Manual=Just Input From Name ex: PayPal Centre
+Delay=0
+Connection=1
